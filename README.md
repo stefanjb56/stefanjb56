@@ -1,4 +1,5 @@
-### Hi there 👋
+### Student 🎓
+### Cybernetics & robotics, NTNU
 
 <!--
 **stefanjb56/stefanjb56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
